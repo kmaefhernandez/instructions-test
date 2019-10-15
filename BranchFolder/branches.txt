@@ -1,5 +1,5 @@
 This is a list of the branches in this repository.
 
 - master
-- kmfh/branch-tutorial
+- kmfh/branches-tutorial
 - kmfh/repos-tutorial
